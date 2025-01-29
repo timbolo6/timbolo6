@@ -1,4 +1,10 @@
 ## Hi there 👋
+![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
+[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+![](https://komarev.com/ghpvc/?username=timbolo6)
+
+
+- 🌱 I’m currently learning on Compound AI System such as RAGs
 
 <!--
 **timbolo6/timbolo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
