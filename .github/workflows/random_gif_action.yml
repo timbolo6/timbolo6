@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v2
 
       - name: Select Random GIF
         id: random-gif
@@ -30,6 +30,7 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+          git pull origin main 
           git add README.md
           git commit -m "Update README with random GIF"
-          git push
+          git push origin main
