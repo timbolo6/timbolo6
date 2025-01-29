@@ -17,7 +17,7 @@ jobs:
       - name: Select Random GIF
         id: random-gif
         run: |
-          GIFS=("gifs/Excited_John_Cena_GIF_by_WWE.gif" "gifs/Happy_Season_5_GIF_by_The_Office.gif.gif" "gifs/Obi_Wan_Kenobi_Hello_GIF_by_Star_Wars.gif" "gifs/Revenge_Of_The_Sith_Prequel_GIF.gif")
+          GIFS=("gifs/Excited_John_Cena_GIF_by_WWE.gif" "gifs/Happy_Season_5_GIF_by_The_Office.gif" "gifs/Obi_Wan_Kenobi_Hello_GIF_by_Star_Wars.gif" "gifs/Revenge_Of_The_Sith_Prequel_GIF.gif")
           RANDOM_INDEX=$((RANDOM % ${#GIFS[@]}))
           SELECTED_GIF=${GIFS[$RANDOM_INDEX]}
           echo "SELECTED_GIF=$SELECTED_GIF" >> $GITHUB_ENV
