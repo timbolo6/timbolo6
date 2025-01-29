@@ -1,6 +1,6 @@
 ## Hi there 👋
-![](https://raw.githubusercontent.com/Schweinepriester/Schweinepriester/master/MeagerHardtofindAlbertosaurus-size_restricted.gif)  
-[Source](https://gfycat.com/meagerhardtofindalbertosaurus-hello-there-star-wars-prequelmemes)
+![](https://raw.githubusercontent.com/timbolo6/timbolo6/main/Obi_Wan_Kenobi_Hello_GIF_by_Star_Wars.gif)  
+[Source](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3QxcXkxYXFldmlyeDlwYXIzYnFyajZoZXZ0Z2N5OGV3YXJjOWk2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif)
 ![](https://komarev.com/ghpvc/?username=timbolo6)
 
 
