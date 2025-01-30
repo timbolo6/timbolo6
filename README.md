@@ -5,7 +5,7 @@
 
 
 🔭 I’m currently working on a Bee Health Monitoring App – leveraging data to support beekeepers in tracking hive health and ensuring pollinator well-being.
-Check it out: ![Bee Health Monitoring App](https://bee-health-monitoring.streamlit.app/)  
+Check it out: [Bee Health Monitoring App](https://bee-health-monitoring.streamlit.app/)  
 
 <!--
 **timbolo6/timbolo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
