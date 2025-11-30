@@ -32,5 +32,9 @@ jobs:
           git config user.email "actions@github.com"
           git pull origin main 
           git add README.md
-          git commit -m "Update README with random GIF"
-          git push origin main
+          if git diff --cached --quiet; then
+            echo "No changes to commit (same GIF was selected)"
+          else
+            git commit -m "Update README with random GIF"
+            git push origin main
+          fi
